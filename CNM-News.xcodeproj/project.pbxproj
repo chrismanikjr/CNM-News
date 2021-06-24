@@ -111,8 +111,6 @@
 		CB77AD0926849A450059D34E /* Helper */ = {
 			isa = PBXGroup;
 			children = (
-				CB7F4B2926832DA4007D4E1E /* AppDelegate.swift */,
-				CB7F4B2B26832DA4007D4E1E /* SceneDelegate.swift */,
 				CB7F4B5C26832DBC007D4E1E /* K.swift */,
 				CB77AD0C2684ADC30059D34E /* Utilities.swift */,
 			);
@@ -142,6 +140,8 @@
 		CB7F4B2826832DA4007D4E1E /* CNM-News */ = {
 			isa = PBXGroup;
 			children = (
+				CB7F4B2926832DA4007D4E1E /* AppDelegate.swift */,
+				CB7F4B2B26832DA4007D4E1E /* SceneDelegate.swift */,
 				CB77AD0926849A450059D34E /* Helper */,
 				CB77ACFE268487810059D34E /* Controller */,
 				CB7F4B62268334F1007D4E1E /* View */,
